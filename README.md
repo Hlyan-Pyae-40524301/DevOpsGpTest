@@ -27,9 +27,9 @@ These offer a cutting-edge environment for the creation and distribution of soft
 
 The role of our team members are –
 
-Hlyan Pyae (Scrum Master) – Github set up
+Ye Thiha Oo (Project Owner) – create repo and issues
 
-Ye Thiha Oo (Project Owner) – create repo and issue
+Hlyan Pyae (Scrum Master) – Github set up
 
 Kaung Khant (Team Member) – README
 
