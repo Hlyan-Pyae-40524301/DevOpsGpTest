@@ -1,4 +1,4 @@
 FROM openjdk:16
-COPY ./target/classes/com /tmp/com
+COPY ./target/DevOpsGp1-1.0-SNAPSHOT-jar-with-dependencies.jar /tmp
 WORKDIR /tmp
-ENTRYPOINT ["java", "com.group1.cw.App"]
+ENTRYPOINT ["java", "-jar", "DevOpsGp1-1.0-SNAPSHOT-jar-with-dependencies.jar"]
